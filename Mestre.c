@@ -61,10 +61,10 @@ int turisticos2;
         printf("-----Cadastro da Carta 2----- \n");
         
           printf("Digite o Estado 'uma letra de A até H' : \n ");
-            scanf(" %c", &estado1);
+            scanf(" %c", &estado2);
      
              printf("Digite o codigo da Carta (ex:A01)\n");
-                scanf("%s", Codigo_da_carta1);
+                scanf("%s", Codigo_da_carta2);
               printf("Digite o nome da cidade\n");
                scanf(" %[^\n]", cidade2);
 
